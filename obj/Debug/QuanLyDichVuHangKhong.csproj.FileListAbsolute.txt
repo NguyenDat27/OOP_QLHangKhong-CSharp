@@ -1,0 +1,12 @@
+U:\QuanLyDichVuHangKhong\bin\Debug\QuanLyDichVuHangKhong.exe
+U:\QuanLyDichVuHangKhong\bin\Debug\QuanLyDichVuHangKhong.pdb
+U:\QuanLyDichVuHangKhong\obj\Debug\QuanLyDichVuHangKhong.csproj.AssemblyReference.cache
+U:\QuanLyDichVuHangKhong\obj\Debug\QuanLyDichVuHangKhong.csproj.CoreCompileInputs.cache
+U:\QuanLyDichVuHangKhong\obj\Debug\QuanLyDichVuHangKhong.exe
+U:\QuanLyDichVuHangKhong\obj\Debug\QuanLyDichVuHangKhong.pdb
+D:\nghia\QuanLyDichVuHangKhong\QuanLyDichVuHangKhong\bin\Debug\QuanLyDichVuHangKhong.exe
+D:\nghia\QuanLyDichVuHangKhong\QuanLyDichVuHangKhong\bin\Debug\QuanLyDichVuHangKhong.pdb
+D:\nghia\QuanLyDichVuHangKhong\QuanLyDichVuHangKhong\obj\Debug\QuanLyDichVuHangKhong.csproj.AssemblyReference.cache
+D:\nghia\QuanLyDichVuHangKhong\QuanLyDichVuHangKhong\obj\Debug\QuanLyDichVuHangKhong.csproj.CoreCompileInputs.cache
+D:\nghia\QuanLyDichVuHangKhong\QuanLyDichVuHangKhong\obj\Debug\QuanLyDichVuHangKhong.exe
+D:\nghia\QuanLyDichVuHangKhong\QuanLyDichVuHangKhong\obj\Debug\QuanLyDichVuHangKhong.pdb
